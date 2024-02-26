@@ -425,3 +425,8 @@ nav a:hover {
 .footer-bottom p:last-of-type {
     font-weight: bold;
 }
+
+.footer {
+    background-color: black;
+    color: #fff;
+}
